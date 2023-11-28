@@ -1,0 +1,6 @@
+pytest
+zipfile
+pathlib
+xlrd
+openpyxl
+pypdf
